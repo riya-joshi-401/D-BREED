@@ -1,5 +1,5 @@
 # D-BREED
-A web-app made using flask and Deep learning ( custom CNN model with InceptionResNetV2 ) in python for identifying the breed of the dog from its image.
+A web-app made using flask and Deep learning ( custom CNN model with InceptionResNetV2 ) in python for identifying the breed of the dog from its image.<br>
 <ins><b>File descriptions:</b></ins>
                         <li> train.zip - the training set, you are provided the breed for these dogs</li>
                         <li> test.zip - the test set, you must predict the probability of each breed for each image </li>
