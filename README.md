@@ -8,4 +8,4 @@
 <li> The train folder consists of 10,222 images and test folder consists of 10,357 images.</li>
 <li> Each image has a filename that is its unique id. </li>
 <li> The dataset comprises of 120 breeds of dogs. </li>
-<li> <b>Accuracy achieved after training the model:</b>  91.0959% </li>
+<li> <ins><b>Accuracy achieved after training the model:</b></ins>  91.0959% </li>
