@@ -12,7 +12,9 @@ A web-app made using flask and Deep learning ( custom CNN model with InceptionRe
 <br>
 <ins><b>Accuracy achieved after training the model:</b></ins>  91.0959%
 <br>
-Checkout my jupyter notebook : [Here](https://github.com/riya-joshi-401/D-BREED/blob/main/model/dbreed.ipynb)
+
+[Checkout my jupyter notebook](https://github.com/riya-joshi-401/D-BREED/blob/main/model/dbreed.ipynb)
+
 <br><br>
 
 ![output1](https://github.com/riya-joshi-401/D-BREED/blob/main/output%20screen%20shots/output1.PNG)
