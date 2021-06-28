@@ -7,5 +7,5 @@ A web-app made using flask and Deep learning ( custom CNN model with InceptionRe
                         <li> labels.csv - the breeds for the images in the train set </li>
 <li> The train folder consists of 10,222 images and test folder consists of 10,357 images.</li>
 <li> Each image has a filename that is its unique id. </li>
-<li> The dataset comprises of 120 breeds of dogs. </li>
+<li> The dataset comprises of 120 breeds of dogs. </li><br>
 <ins><b>Accuracy achieved after training the model:</b></ins>  91.0959%
