@@ -1,0 +1,28 @@
+.signupForm{
+            -webkit-box-shadow: 7px 7px 15px -1px rgba(103,103,103,0.99); 
+            box-shadow: 7px 7px 15px -1px rgba(103,103,103,0.99);
+            border-radius: 1%;
+            padding:25px;
+        }
+.gradient{ background-image: linear-gradient(to right, #6F085B , #CD0046);
+           border:none;
+           border-radius:25px;}
+
+body{background-color:#ffe6f2;
+     background-image:#000000;
+     background-size:cover;
+     background-position: center;}
+
+.signupForm .form-control {
+    min-height: 38px;
+    box-shadow: none !important;
+    border-width: 0 0 1px 0;
+    border-radius: 0;
+}
+.form-group {
+	margin-bottom: 25px; }
+.signupForm .fa {
+	position: relative;
+       top: 6px;
+	
+}
