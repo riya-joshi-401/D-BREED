@@ -176,10 +176,5 @@ def predict():
 
     return render_template("index.html",data=image,image_loc = img.filename)
 
-
-
-
-
-
 if __name__ == '__main__':
     app.run(debug=True,port=10000)
