@@ -11,7 +11,7 @@ A web-app made using flask and Deep learning ( custom CNN model with InceptionRe
 <li> The dataset comprises of 120 breeds of dogs. </li>
 <br>
 <ins><b>Accuracy achieved after training the model:</b></ins>  91.0959%
-<br>
+<br><br>
 
 [Checkout my jupyter notebook](https://github.com/riya-joshi-401/D-BREED/blob/main/model/dbreed.ipynb)
 
